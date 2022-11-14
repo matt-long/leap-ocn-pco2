@@ -1,0 +1,11 @@
+g.e22.GOMIPECOIAF_JRA-1p4-2018.TL319_g17.4p2z.001branch:
+  archive_root: /glade/campaign/cesm/development/bgcwg/projects/CESM2-OMIP2-like-4p2z-run/g.e22.GOMIPECOIAF_JRA-1p4-2018.TL319_g17.4p2z.001branch
+  description: JRA-forced ocean-ice hindcast (1°)
+  sname: lo-res
+  grid: POP_gx1v7
+  
+g.e22.TL319_t13.G1850ECOIAF_JRA_HR.4p2z.001:
+  archive_root: /glade/campaign/collections/cmip/CMIP6/iHESP/FOSI_BGC/HR/g.e22.TL319_t13.G1850ECOIAF_JRA_HR.4p2z.001
+  description: JRA-forced ocean-ice hindcast (0.1°)
+  sname: hi-res  
+  grid: POP_tx0.1v3  
